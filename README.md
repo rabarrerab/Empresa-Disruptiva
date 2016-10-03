@@ -1,4 +1,4 @@
-# I.  INTRODUCCIÓN
+#   INTRODUCCIÓN
 
 Clayton M. Christensen, profesor de la Harvard Business School, que fue quien empezó  por 1995 a teorizar sobre las innovaciones disruptivas, un concepto que acabó plasmando dos años después en su libro The Innovator’s Dilemma.
 
